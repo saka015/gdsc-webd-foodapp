@@ -1,0 +1,15 @@
+/* Default styles for larger screens (desktop-first) */
+
+
+
+
+
+
+
+
+/* Media query for mobile devices */
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+}
